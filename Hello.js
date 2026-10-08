@@ -249,3 +249,10 @@ do {
 
 // For  loop
 
+for(let i = 5;i>=1;i--){
+    console.log(i + " Suriya")
+}
+
+for(let v = 1; v <= 5; v++){
+    console.log(v + " Suriya s")
+}
